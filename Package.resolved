@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "DataStream",
+        "repositoryURL": "https://github.com/hughbe/DataStream",
+        "state": {
+          "branch": null,
+          "revision": "6136e69031194a6518cdc3316d79ca83a0a2acfd",
+          "version": "1.2.1"
+        }
+      },
+      {
+        "package": "WindowsDataTypes",
+        "repositoryURL": "https://github.com/hughbe/WindowsDataTypes",
+        "state": {
+          "branch": null,
+          "revision": "82b4b6691dfa14d59663500150521114346328c0",
+          "version": "1.0.6"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
